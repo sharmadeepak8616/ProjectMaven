@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6784" started-at="2017-08-30T11:44:06Z" finished-at="2017-08-30T11:44:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6784" started-at="2017-08-30T11:44:06Z" finished-at="2017-08-30T11:44:12Z">
+      <class name="ProjectMaven.MavenSelenium_WordPress">
+        <test-method status="PASS" signature="trySelenium_inMaven()[pri:0, instance:ProjectMaven.MavenSelenium_WordPress@ae45eb6]" name="trySelenium_inMaven" duration-ms="6769" started-at="2017-08-30T07:44:06Z" finished-at="2017-08-30T07:44:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trySelenium_inMaven -->
+      </class> <!-- ProjectMaven.MavenSelenium_WordPress -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
